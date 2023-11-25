@@ -4,8 +4,6 @@ from math import *
 
 x, y=loadtxt('input.txt', usecols=(0,1), unpack='true')
 
-x=x*10**-2
-
 x1, y1=x,y
 
 N_range=[]
